@@ -1,4 +1,0 @@
-maven
-jenkins
-docker
-ansible
